@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const images = [
   "https://via.placeholder.com/1200x400?text=Sale+1",
